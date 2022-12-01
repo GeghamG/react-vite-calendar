@@ -14,12 +14,6 @@ export const theme = createTheme({
       dark: '#ba000d',
       contrastText: '#000',
     },
-    // initial: {
-    //   main: '#D9D9D9',
-    // },
-    // neutral: {
-    //   main: '#D9D9D9',
-    // }
   },
   typography: {
     fontFamily: 'Poppins',

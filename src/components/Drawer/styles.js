@@ -52,7 +52,6 @@ export const useStyles = makeStyles((theme) => ({
       }),
       backgroundColor: '#2D224C;',
       height: '100vh'
-    //   marginTop: '60px',
     },
     contentShift: {
       transition: theme.transitions.create('margin', {
